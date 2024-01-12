@@ -13,7 +13,7 @@ Online Market Place Platform is a powerful multi-store inventory management syst
 
 ## Installation
 
-1. Clone the repository: `https://github.com/isayas2024@gmail.com/web_service_online_market_place.git`
+1. Clone the repository: `git@github.com:Isayas7/web_service_online_market_place.git`
 2. Install the required dependencies: `npm install`
 3. Configure the database connection in the `index.js` file.
 4. Run the application: `npm start`
