@@ -1,0 +1,138 @@
+{
+  "products": [
+    {
+      "catagoryName": "Blouse",
+      "id": 5
+    },
+    {
+      "catagoryName": "T-Shirt",
+      "imageUrl": null,
+      "id": 6
+    },
+    {
+      "catagoryName": "Trousers",
+      "id": 7
+    },
+    {
+      "catagoryName": "Coat",
+      "imageUrl": null,
+      "id": 9
+    },
+    {
+      "catagoryName": "Shoes",
+      "imageUrl": null,
+      "id": 10
+    },
+    {
+      "catagoryName": "Shirt",
+      "imageUrl": null,
+      "id": 11
+    },
+    {
+      "catagoryName": "Dress",
+      "imageUrl": null,
+      "id": 12
+    }
+  ],
+  "store": [
+    {
+      "storeName": "MFashion",
+      "storeLocation": "Mexico",
+      "productAmount": "",
+      "id": 1
+    },
+    {
+      "storeName": "PFashion",
+      "storeLocation": "Piassa",
+      "productAmount": "",
+      "id": 2
+    }
+  ],
+  "rows": [
+    {
+      "firstName": "Ebisa",
+      "lastName": "Girma",
+      "gender": "Male",
+      "email": "ebisagirma41@gmail.com",
+      "phoneNumber": "0925690613",
+      "address": "AA",
+      "store": "",
+      "role": "admin",
+      "id": 1
+    }
+  ],
+  "catagories": [
+    {
+      "catagoryTypeName": "Nike",
+      "imageUrl": null,
+      "id": 1
+    },
+    {
+      "catagoryTypeName": "Puma",
+      "imageUrl": null,
+      "id": 2
+    }
+  ],
+  "product": [
+    {
+      "img": "../../public/img/products/f1.jpg",
+      "brand": "addidas",
+      "name": "Cartoon Astronaut T-shirts",
+      "price": "200",
+      "detail": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla assumenda molestiae hic.Repudiandae labore, illo eveniet et vel rerum, dolor autem sunt obcaecati fuga iure.dolor qui praesentium.",
+      "id": 1
+    },
+    {
+      "img": "../../public/img/products/f1.jpg",
+      "brand": "lorem ipsum...",
+      "name": "yoshi",
+      "price": "200",
+      "id": 2
+    },
+    {
+      "img": "../../public/img/products/f1.jpg",
+      "brand": "addidas",
+      "name": "Cartoon Astronaut T-shirts",
+      "price": "200",
+      "id": 3
+    },
+    {
+      "img": "../../public/img/products/f1.jpg",
+      "brand": "lorem ipsum...",
+      "name": "yoshi",
+      "price": "200",
+      "id": 4
+    }
+  ],
+  "newarrival": [
+    {
+      "img": "../../public/img/products/f1.jpg",
+      "brand": "addidas",
+      "name": "Cartoon Astronaut T-shirts",
+      "price": "200",
+      "detail": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nulla assumenda molestiae hic.Repudiandae labore, illo eveniet et vel rerum, dolor autem sunt obcaecati fuga iure.dolor qui praesentium.",
+      "id": 1
+    },
+    {
+      "img": "../../public/img/products/f1.jpg",
+      "brand": "lorem ipsum...",
+      "name": "yoshi",
+      "price": "200",
+      "id": 2
+    },
+    {
+      "img": "../../public/img/products/f1.jpg",
+      "brand": "addidas",
+      "name": "Cartoon Astronaut T-shirts",
+      "price": "200",
+      "id": 3
+    },
+    {
+      "img": "../../public/img/products/f1.jpg",
+      "brand": "lorem ipsum...",
+      "name": "yoshi",
+      "price": "200",
+      "id": 4
+    }
+  ]
+}
